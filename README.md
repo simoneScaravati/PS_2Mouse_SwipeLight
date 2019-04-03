@@ -4,3 +4,4 @@ WITHOUT external hardware (except for a LED ,or 5v led strips(much more cool, wi
 just passing over the hand (like Daniel-San, u know...) on the mouse sensor.
 
 I used this library to interface the mouse: https://playground.arduino.cc/ComponentLib/Ps2mouse/
+Color scheme is PS_2.png
