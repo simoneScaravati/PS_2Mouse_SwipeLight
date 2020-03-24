@@ -1,8 +1,6 @@
-# PS_2Mouse_SwipeLight
-A small code that runs on an Arduino (actually a NodeMCU) which allows you to use an old mouse with PS2 attach (with red laser) 
-WITHOUT external hardware (except for a LED ,or 5v led strips(much more cool, with same code) and cables of course) to set the power of the led(s)
-just passing over the hand (like Daniel-San, u know...) on the mouse sensor.
+## PS2_Mouse_SwipeLight
+A small Arduino code, that runs on an ESP8266 NodeMCU, which allows you to use an old PS2 mouse (with red laser) as a "power slider" to set a analog output (in the code I use a single LED) just passing over the hand (like Daniel-San, u know...) on the mouse sensor.
 
-I used this library to interface the mouse: https://playground.arduino.cc/ComponentLib/Ps2mouse/ .
+PS2 Mouse Library to interface the mouse: https://playground.arduino.cc/ComponentLib/Ps2mouse/ .
 
-Color scheme is PS_2.png
+Color scheme used for wirings is PS_2.png
